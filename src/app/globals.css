@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@patternfly/react-core/dist/styles/base.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-rh-red: #CC0000;
+  --color-rh-red-dark: #a30000;
+  --color-rh-black: #000000;
+  --color-rh-gray: #d2d2d2;
+  --color-rh-gray-light: #f5f5f5;
+  --font-family-redhat: "RedHatText", "Red Hat Text", "Overpass", "Open Sans", Helvetica, Arial, sans-serif;
+}
