@@ -145,14 +145,8 @@ export default function Home() {
         </Masthead>
       }
     >
-      <PageSection className="!bg-white dark:!bg-rh-black !py-16 !transition-colors">
+      <PageSection className="!bg-white dark:!bg-rh-black !pt-4 !pb-16 !transition-colors">
         <div className="max-w-5xl mx-auto">
-          <h1 className="text-3xl font-bold mb-2 text-rh-black dark:text-white">
-            AI Quickstart Navigator
-          </h1>
-          <p className="text-[#666] dark:text-rh-gray mb-10 text-lg">
-            Explore Red Hat AI quickstart guides
-          </p>
           <Gallery hasGutter minWidths={{ default: "100%", sm: "300px" }}>
             {sites.map((site, index) => (
               <GalleryItem key={site.name}>
