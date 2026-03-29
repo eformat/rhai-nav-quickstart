@@ -17,6 +17,7 @@ Clicking a card opens the site in an embedded iframe with a back button.
 - Rainforest: `https://eformat.github.io/rainforest-docs`
 - Special Potato: `https://eformat.github.io/special-potato`
 - Quickstart 1: `https://soyr-redhat.github.io/demo-platform-quickstart-test`
+- Quickstart MCP: `https://eformat.github.io/rhai-demo-quickstart-opencode-mcp`
 
 ## Theme
 

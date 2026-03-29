@@ -38,6 +38,11 @@ const sites = [
     url: "https://soyr-redhat.github.io/demo-platform-quickstart-test",
     description: "Demo platform quickstart tutorials",
   },
+  {
+    name: "Quickstart MCP",
+    url: "https://eformat.github.io/rhai-demo-quickstart-opencode-mcp",
+    description: "OpenCode MCP quickstart demo",
+  },
 ];
 
 export default function Home() {
