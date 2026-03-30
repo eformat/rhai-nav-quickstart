@@ -94,6 +94,7 @@ export default function Home() {
           src={activeUrl}
           className="flex-1 w-full border-0"
           title={activeName}
+          allow="clipboard-write"
         />
       </div>
     );
