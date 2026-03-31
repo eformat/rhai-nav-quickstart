@@ -34,12 +34,12 @@ const sites = [
     description: "Special Potato project resources",
   },
   {
-    name: "Quickstart 1",
+    name: "Smart Start 1",
     url: "https://soyr-redhat.github.io/demo-platform-quickstart-test",
     description: "Demo platform quickstart tutorials",
   },
   {
-    name: "Quickstart MCP",
+    name: "Smart Start MCP",
     url: "https://eformat.github.io/rhai-demo-quickstart-opencode-mcp",
     description: "OpenCode MCP quickstart demo",
   },
