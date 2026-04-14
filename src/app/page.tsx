@@ -19,29 +19,19 @@ import { ArrowLeftIcon, ExternalLinkAltIcon, SunIcon, MoonIcon } from "@patternf
 
 const sites = [
   {
-    name: "Voice Agents",
-    url: "https://eformat.github.io/voice-agents/voice-agents/index.html",
+    name: "Voice Agents Smart Start",
+    url: "https://rhai-code.github.io/voice-agents",
     description: "Voice-powered AI agent interfaces",
   },
   {
-    name: "Rainforest",
-    url: "https://eformat.github.io/rainforest-docs",
-    description: "Rainforest documentation and guides",
+    name: "Factory Floor Tycoon Smart Start",
+    url: "https://rhai-code.github.io/factory-floor-tycoon-agentic-demo",
+    description: "Agentic AI strategy game — build, automate & dominate",
   },
   {
-    name: "Special Potato",
-    url: "https://eformat.github.io/special-potato",
-    description: "Special Potato project resources",
-  },
-  {
-    name: "Smart Start 1",
-    url: "https://soyr-redhat.github.io/demo-platform-quickstart-test",
-    description: "Demo platform quickstart tutorials",
-  },
-  {
-    name: "Smart Start MCP",
-    url: "https://eformat.github.io/rhai-demo-quickstart-opencode-mcp",
-    description: "OpenCode MCP quickstart demo",
+    name: "Word Swarm Smart Start",
+    url: "https://rhai-code.github.io/wordswarm",
+    description: "Can you beat the AI Agent at this buzzingly fun word game?",
   },
 ];
 

@@ -13,11 +13,9 @@ Next.js + TypeScript + Tailwind CSS + PatternFly 6 static SPA.
 
 Clicking a card opens the site in an embedded iframe with a back button.
 
-- Voice Agents: `https://eformat.github.io/voice-agents/voice-agents/index.html`
-- Rainforest: `https://eformat.github.io/rainforest-docs`
-- Special Potato: `https://eformat.github.io/special-potato`
-- Quickstart 1: `https://soyr-redhat.github.io/demo-platform-quickstart-test`
-- Quickstart MCP: `https://eformat.github.io/rhai-demo-quickstart-opencode-mcp`
+- Voice Agents Smart Start: https://rhai-code.github.io/voice-agents
+- Factory Floor Tycoon Smart Start: https://rhai-code.github.io/factory-floor-tycoon-agentic-demo
+- Word Swarm Smart Start: https://rhai-code.github.io/wordswarm
 
 ## Theme
 
